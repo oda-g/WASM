@@ -1,2 +1,2 @@
 # WASM
-WebAssembly study
+WebAssembly 勉強中
